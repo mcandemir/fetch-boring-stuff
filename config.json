@@ -1,0 +1,13 @@
+{
+  "cubis": {
+    "login_url": "https://login.cu.edu.tr/Login.aspx?ReturnUrl=%2f",
+    "username" : "2018555013",
+    "password" : "Can159159789456123",
+    "username_box_%name%" : "ctl06$txtKullaniciAdi",
+    "password_box_%name%" : "ctl06$txtSifre",
+    "login_button_%id%" : "ctl06_lbLogin",
+    "courses_url" : "https://derskayit.cu.edu.tr/Ogrenci/SecilenDersler",
+    "obs_url" : "https://derskayit.cu.edu.tr/",
+    "course_data_%class%" : "text-center"
+  }
+}
